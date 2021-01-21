@@ -52,9 +52,9 @@
     
     
     
-    const onderwerp = ["she", "Ed", "Rosmerta"];
-    const werkwoord = ["walks", "learns", "drinks"];
-    const restwoord = ["hard", "at school", "coffee"];
+    const onderwerp = ["he", "Matthew", "Daniel"];
+    const werkwoord = ["runs", "reads", "eats"];
+    const restwoord = ["slow", "at home", "cake"];
         
-    let plaatjes = ["https://cdn.pixabay.com/photo/2018/07/09/17/44/baby-elephant-3526681__340.png", "https://www.how-to-draw-funny-cartoons.com/images/cartoon-baby-007.jpg", "https://thumbs.dreamstime.com/b/smiling-heart-cartoon-open-arms-nice-image-all-projects-love-representing-version-its-suggest-idea-40930153.jpg", "https://observer.com/wp-content/uploads/sites/2/2020/05/yoda-art-observer.jpg?quality=80"]
+    let plaatjes = ["https://pixabay.com/photos/mountains-clouds-sunset-sunrise-5903352", "https://pixabay.com/photos/manhattan-new-york-street-lights-5901178", "https://pixabay.com/photos/venice-burano-italy-house-colorful-5767937", "https://pixabay.com/photos/milky-way-galaxy-stars-cosmos-5905903"]
     let arrayLength = onderwerp.length;
